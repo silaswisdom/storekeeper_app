@@ -16,3 +16,5 @@ Built with: Flutter and provider for state management.
 https://drive.google.com/file/d/1zulJmE3W1kR2QfZ1A7vyh6Gyzx3OXpvF/view?usp=drive_link
 
 https://drive.google.com/file/d/1IM1_mzGxKZvQytWiNwvMj50t1-EeYJLi/view?usp=sharing
+
+https://github.com/silaswisdom/storekeeper_app.git
