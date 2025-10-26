@@ -1,16 +1,18 @@
 # storekeeper_app
+Storekeeper is an offline-first mobile application built with Flutter to manage product inventory. It supports full CRUD (Create, Read, Update, Delete) operations using a local SQLite database.
 
-A new Flutter project.
+✨ Key Features
 
-## Getting Started
+Offline Data: Uses SQLite (sqflite) for persistent, local storage of products.
 
-This project is a starting point for a Flutter application.
+Inventory Management: Supports adding, viewing, updating, and deleting product entries.
 
-A few resources to get you started if this is your first Flutter project:
+Native Camera Integration: Allows capturing new photos or selecting existing images from the gallery using image_picker.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Naira (₦) Currency: Prices are displayed in Nigerian Naira.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built with: Flutter and provider for state management.
+
+https://drive.google.com/file/d/1zulJmE3W1kR2QfZ1A7vyh6Gyzx3OXpvF/view?usp=drive_link
+
+https://drive.google.com/file/d/1IM1_mzGxKZvQytWiNwvMj50t1-EeYJLi/view?usp=sharing
